@@ -1,0 +1,4 @@
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-common\obj\Debug\netcoreapp3.1\Asset-management-system-common.csprojAssemblyReference.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-common\obj\Debug\netcoreapp3.1\Asset-management-system-common.AssemblyInfoInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-common\obj\Debug\netcoreapp3.1\Asset-management-system-common.AssemblyInfo.cs
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-common\obj\Debug\netcoreapp3.1\Asset-management-system-common.csproj.CoreCompileInputs.cache

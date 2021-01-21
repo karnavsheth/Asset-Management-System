@@ -1,0 +1,12 @@
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\bin\Debug\netcoreapp3.1\Asset-management-system-repository.deps.json
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\bin\Debug\netcoreapp3.1\Asset-management-system-repository.runtimeconfig.json
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\bin\Debug\netcoreapp3.1\Asset-management-system-repository.runtimeconfig.dev.json
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\bin\Debug\netcoreapp3.1\Asset-management-system-repository.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\bin\Debug\netcoreapp3.1\Asset-management-system-repository.pdb
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.AssemblyInfoInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.AssemblyInfo.cs
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.csproj.CoreCompileInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.pdb
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.genruntimeconfig.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-DAL\obj\Debug\netcoreapp3.1\Asset-management-system-repository.csprojAssemblyReference.cache

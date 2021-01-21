@@ -1,0 +1,28 @@
+.file-explorer-path {
+  text-align: left;
+}
+
+.file-explorer-container {
+  border: 3px solid grey;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px 10px;
+}
+
+.file-grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.file-item {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 15px;
+  cursor: pointer;
+}
+
+.thumbnail {
+  height: 180px;
+  width: 200px;
+}

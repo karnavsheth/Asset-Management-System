@@ -1,0 +1,8 @@
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.deps.json
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.pdb
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.AssemblyInfoInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.AssemblyInfo.cs
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.csproj.CoreCompileInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-commonLibarary.pdb

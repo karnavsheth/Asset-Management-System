@@ -1,0 +1,9 @@
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-common.deps.json
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-common.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\bin\Debug\netcoreapp3.1\Asset-management-system-common.pdb
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.AssemblyInfoInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.AssemblyInfo.cs
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.csproj.CoreCompileInputs.cache
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.dll
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.pdb
+C:\.Net-BE\Asset-management-system-BE\Asset-management-system-commonLibarary\obj\Debug\netcoreapp3.1\Asset-management-system-common.csprojAssemblyReference.cache

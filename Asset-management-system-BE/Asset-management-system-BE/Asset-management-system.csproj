@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Asset_management_system_BE</RootNamespace>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.8.0" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Azure.CognitiveServices.Vision.ComputerVision" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Asset-management-system-commonLibarary\Asset-management-system-common.csproj" />
+    <ProjectReference Include="..\Asset-management-system-DAL\Asset-management-system-repository.csproj" />
+    <ProjectReference Include="..\Asset-management-system-service\Asset-management-system-service.csproj" />
+  </ItemGroup>
+
+
+</Project>

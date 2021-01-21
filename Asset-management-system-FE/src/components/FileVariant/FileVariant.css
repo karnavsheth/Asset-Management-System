@@ -1,0 +1,28 @@
+.file-variant-container {
+  border: 3px solid grey;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px 10px;
+  flex-direction: column;
+}
+
+.file-original-varient {
+  align-self: center;
+  max-width: 1000px;
+  width: 600px;
+}
+
+.file-variant-details {
+  display: flex;
+  flex-direction: column;
+  margin: 5px 10px;
+}
+
+.file-variant-list {
+  display: flex;
+}
+
+.file-variant-title {
+  text-align: left;
+}

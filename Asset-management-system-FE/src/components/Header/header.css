@@ -1,0 +1,14 @@
+.header {
+  padding: 25px 0;
+  text-align: left;
+  background: #222;
+}
+.header img {
+  width: 100px;
+  height: 13px;
+}
+.header .title {
+  display: inline;
+  font-size: larger;
+  color: white;
+}
