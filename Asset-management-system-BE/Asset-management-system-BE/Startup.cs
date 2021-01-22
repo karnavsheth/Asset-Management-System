@@ -38,8 +38,6 @@ namespace Asset_management_system_BE
             services.AddScoped<IComputerVisionClient>(factory => {
                 var key = Configuration["ComputerVisionKey"];
                 var host = Configuration["ComputerVisionEndpoint"];
-                var test = Configuration["AzureBlobStorage"];
-                var hhh = Configuration.GetConnectionString("DBConnection");
                 var credentials = new ApiKeyServiceClientCredentials(key);
                 var client = new ComputerVisionClient(credentials);
                 client.Endpoint = host;
